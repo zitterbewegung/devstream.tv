@@ -1,4 +1,10 @@
 [
+  {"name": "zitterbewegung",
+   "twitch": "zitterbewegung",
+   "tags": ["Django"
+     ],
+   "links": {"Github": "https://github.com/zitterbewegung"}
+  },
   {
     "name": "Mikkel",
     "twitch": "mljware",
